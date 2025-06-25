@@ -7,7 +7,7 @@ To design and implement a robust, normalized, and scalable MySQL database that m
 
 ## Acknowledgements
 
-I would like to sincerely thank the DevifyX Assignment Team for providing such a well-structured and practical project. The assignment helped me think critically and apply concepts in a real-world scenario, which also made my understanding of SQL fundamentals and database design much stronger.
+I would like to sincerely thank the DevifyX Team for providing such a well-structured and practical project. The assignment helped me think critically and apply concepts in a real-world scenario, which also made my understanding of SQL fundamentals and database design much stronger.
 
 I’m also grateful for the tools and resources provided by the SQL community and MySQL Workbench, which made it easier to design, test, and visualize the entire system effectively.
 
